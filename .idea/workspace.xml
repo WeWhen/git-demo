@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2faf20f8-22e5-4e4f-8702-3df50d9be562" name="变更" comment="" />
+    <list default="true" id="2faf20f8-22e5-4e4f-8702-3df50d9be562" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/src/aaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aaa.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="ff65bc3c277216f6825cf8cb55988cff67064297" />
+        <entry key="$PROJECT_DIR$" value="d6623958814c36d84e1a914b6b7016e9b4d8ad6b" />
       </map>
     </option>
   </component>
@@ -46,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720322392789</updated>
-      <workItem from="1720322394706" duration="654000" />
+      <workItem from="1720322394706" duration="1003000" />
     </task>
     <task id="LOCAL-00001" summary="1citijiao">
       <created>1720322429667</created>
@@ -83,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720322871852</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第6次提交">
+      <created>1720323093854</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720323093854</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +109,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -118,6 +127,7 @@
     <MESSAGE value="第3次提交" />
     <MESSAGE value="第4次提交" />
     <MESSAGE value="第5次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第5次提交" />
+    <MESSAGE value="第6次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第6次提交" />
   </component>
 </project>
